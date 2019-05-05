@@ -94,6 +94,9 @@ The two panels are divided by a Separatot. With the mouse you can move it. So yo
 But I have to stop somewhere.  
 Have a lot of fun and be more productive with TotalCmd.  
 
+#TODO:
+There is also the TotalCmd for android and its webdav server tool. Next time...
+
 
 
 
