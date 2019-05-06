@@ -38,10 +38,10 @@ If you want a Tab to be there for you forever you can choose RightClick and `Loc
 Like in a browser you have the Back and Forward button in the toolbar. So you can jump to the folders you have recently watched.
 ## Sort and select
 Click on the column header to fast sort by: Name, Ext, Size or Date.  
-Move up and down with the arrows and press Space. You selected a file/folder. Do it again and again. You have a selection. Very similar is `Shift + Up` and `Shift + Down`. There is also the Menu `Mark - Select Group` to select with wildcard characters. Once you have a selection all operations are on it together.  
+Move up and down with the arrows and press Space. You selected a file/folder. Do it again and again. You have a selection. Very similar is `Shift + Up` and `Shift + Down`. There is also the `menu Mark - Select Group` to select with wildcard characters e.g. `*.jpg`. Once you have a selection all operations work on all the selected files together.  
 ## Rename an FileName
 To rename a file press `Shift + F6`.  
-I often need for one file the Menu `Mark - Copy names with path to clipboard`.  
+I often need for one file the `menu Mark - Copy names with path to clipboard`.  
 ## Zip and other Packers
 A Zip file is very similar to a Folder. If you press `Enter` on it, you will see the content. All the usual operation work just like with normal folder in both directions.  
 It is the same for many other packers. Some of them are already in the default installation. Other can be added as Plugins. I think there is a plugin for everyone of them.  
@@ -50,11 +50,11 @@ To Pack and Unpack in one go use `Alt + F5` and `Alt + F9` shortcuts.
 Today a lot of data is in a remote location. TotalCmd offer a wide range of possibilities to connect to this folders. From that moment on it treats them just as regular folders and all operations just work on them the same as with local folders. Some of them are in the default installation. For others install this plugins from https://www.ghisler.com/plugins.htm:  
 - Cloud 2.0 - for DropBox,...
 - WebDAV 2.9 - for Android WebDAV server, ...
-- SFTP 2.20 - for SSH,...
+- SFTP 2.20 - for SSH,...  
 After you download the plugin, open the zip file with TotalCmd. It will recognize it is a plugin and it will offer to install it. It is that simple.  
 If you save the passwords inside TotalCmd use the MasterKey password to have them secure.  
 ## Synchronize dirs
-From the Menu `Commands - Synchronite dirs` open a strong, fast, easy and complete tool to synchronize folders. You first Compare two folders. Than you choose what to do for every file and then you Synchronize.  
+From the `menu Commands - Synchronite dirs` open a strong, fast, easy and complete tool to synchronize folders. You first Compare two folders. Than you choose what to do for every file and then you Synchronize.  
 There is also the tool `File - Compare by content` the two selected files from the left and right panel.
 ## Search
 `Alt + F7` opens the Search tool. You can search and filter by anything you imagine.  
@@ -64,7 +64,7 @@ I like to have my photos very well organized. It is a hard work because of many 
 LF2019-04-04 12-12-12 blabla.jpg  
 I start with my initials, then the date and time and maybe some description.  
 ## Import photos
-I have a Sony camera with a SD card. I put that in my notebook. In TotalCmd on the left I have an empty local folder and on the right the SD card. On the right side I select all the jpg with `Mark - Select Group` then I copy that with `F5`. I can extract the CD and return it into my Sony camera where I format it.  
+I have a Sony camera with a SD card. I put that in my notebook. In TotalCmd on the left I have an empty local folder and on the right the SD card. On the right side I select all the jpg with `Mark - Select Group - *.jpg` then I copy that with `F5`. I can extract the CD and return it into my Sony camera where I format it.  
 ## Rename photos
 In the local folder I press `Ctrl + a` to Select All and then `Ctrl + m` for the Multirename tool. I choose a saved rename mask:  
 `LF[Y]-[M]-[D] [h]-[m]-[s][N20-]`  
@@ -72,20 +72,21 @@ It will use the file date/time to rename all files. I can see the future filenam
 I can save the mask with the button `F2 Save/Load` for future use.  
 I can move now this "processed" photos somewhere else.  
 ## iPhone
-I have also an iPhone.  
+My girlfriend has an iPhone. I want that pictures also in my albums.  
 When I attach it with USB to my notebook I can choose it in TotalCmd from the `Drive Combobox`.  
 Copying is always the same: select the files and press `F5`.  
-Apple is very innovative and the file date/time is never the true date/time. I have to use EXIF data. I install the Exif 2.4 plugin from https://www.ghisler.com/plugins.htm.  
-Now I can use this kind of Rename mask: 
+Apple is very innovative and the file date/time is never the true date/time. Very confusing, but I'm sure it was an `apple-smart` decision. I have to use EXIF data. I install the Exif 2.4 plugin from  
+https://www.ghisler.com/plugins.htm.  
+Now, I can use this kind of Rename mask: 
 `LF[=exif.DateOriginal.Y-M-D] [=exif.TimeOriginal.h-m-s]`  
-Great ! 
-But only for photos. Videos don't have Exif. For them I will use the saved Rename mask from file date/time.  
+Great !  
+But only for photos. Videos don't have Exif. For them I will use the saved Rename mask from file date/time. Surprisingly apple has the date/time quasi right here.  
 ## Watch the photos
 You can press `Enter` and the photo will open in your associated application.  
 TotalCmd can internally use a photoviewer called IrfanView:  
 https://www.irfanview.com/  
 It is old school, but very effective. You can say to TotalCmd to use it as its default viewer in  `Configuration - Options - Edit/View - Configure internal viewer - Use IrfanView/Xnview to load graphics`  
-Now you can choose to see the files as thumbnails from `Show - Thumbanil View`. You can return to `Show - Full` later. You can choose the size of the thumbnails if they are too small or too big.  
+Now you can choose to see the files as thumbnails from `Show - Thumbanil View`. You can return to `Show - Full` later. You can choose the size of the thumbnails if they are too small or too big in `menu Configuration - Options - Thumbnails - Thumbnail size`.  
 All the operations work just the same no matter what view you use.  
 ## The separator
 The two panels are divided by a Separator. With the mouse you can move it. So you can make more space for one panel in less for the other. That is great for the Thumbnail view.  
