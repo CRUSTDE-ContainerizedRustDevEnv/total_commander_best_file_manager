@@ -102,15 +102,15 @@ But most of all I like the `WiFi direct file transfer (plugin)`. I think the nam
 When you start the `WebDAV server` `WiFi direct file transfer (plugin)` you can read the URL. Something like this:  
 http://192.168.1.43:8081/6552  
 On the other computer or smartphone you can use a `WebDAV client` to connect to this URL and you will enable a two side file transfer and other files operations.  
-Sure, the best `WebDAV client` to use here is exactly Total Commander in both variants: Windows and Android. There is the plugin for WebDAV client you need to install on windows.   
+Sure, the best `WebDAV client` to use here is exactly Total Commander in both variants: Windows and Android. There is the plugin for WebDAV client you need to install on windows.  
 On Android you can even use the QR code to connect fast two android phones. Windows is usually bad with QR codes.  
 I often use this way of file transfer between my computer and smartphone and it is working great !  
 
 # This is not all
 But I have to stop somewhere.  
-Discover by yourself more things that I didn't mention.
+Discover by yourself more things that I didn't mention.  
 Have a lot of fun and be more productive with TotalCmd.  
-Enjoy!   
+Enjoy!  
 
 
 
