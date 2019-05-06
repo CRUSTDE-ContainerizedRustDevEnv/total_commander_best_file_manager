@@ -89,7 +89,7 @@ It is old school, but very effective. You can say to TotalCmd to use it as its d
 Now you can choose to see the files as thumbnails from `Show - Thumbanil View`. You can return to `Show - Full` later. You can choose the size of the thumbnails if they are too small or too big in `menu Configuration - Options - Thumbnails - Thumbnail size`.  
 All the operations work just the same no matter what view you use.  
 ## The separator
-The two panels are divided by a Separator. With the mouse you can move it. So you can make more space for one panel in less for the other. That is great for the Thumbnail view.  
+The two panels are divided by a Separator. With the mouse you can move it. So you can make more space for one panel and less for the other. That is great to make more space for the Thumbnail view.  
 
 # Total Commander for Android
 I waited a long time for a good File Manager for Android. And I was lucky, because Ghisler decided to work in that direction. The result is phenomenal: `Total Commander for Android`.  
