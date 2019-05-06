@@ -1,18 +1,19 @@
 # total_commander_best_file_manager
-I make acrobatics with files all day long.  I could not live without TotalCommander - the best file manager. Primarily for Windows, but today for Android too.  
+I make acrobatics with files all day long.  I could not live without TotalCommander - the best file manager.  
+Primarily for Windows, but today for Android too.  
 ## History
 I am old. I don't feel it, but I am. I grew up with Sinclair Spectrum 48 and Commodore 64 computers. The battle was between Z80 and Motorola MC6800 microprocessors.  
 I was already very productive in the old MSDOS times with Intel 80286 on 6 MHz.  
 There was a magic tool everybody used: Norton Commander.  
 It was very difficult to be productive without it. Can you imagine typing folder/file names all day? Just plain crazy!  
-MSDOS was slowly dying and the new star of graphic user interface Windows emerged. It had a nice looking File Manager.But it was a game for kids, not a true tool. You learned about mouse movements, Click, DoubleClick, drag&drop. (there was not right click in the old times). Fine. Totally useless for practical purposes. It was a game, not a tool.  
+MSDOS was slowly dying and the new star of graphic user interface Windows emerged. It had a nice looking File Manager. But it was a game for kids, not a true tool. You learned about mouse movements, Click, DoubleClick, drag&drop. (there was not right click in the old times). Fine. Totally useless for practical purposes. It was a game, not a tool.  
 Then a Swiss guy Ghisler had this idea to remake the Norton Commander, but for Windows. Fantastic! Great tool!  
-He called it Windows Commander. After a few years he had a phone call from Microsoft that "windows" is their trademark. He renamed it to `Total Commander` or `TotalCmd`.  
+He called it Windows Commander. After a few years he had a phone call from the lawyers of Microsoft that "windows" is their trademark. He renamed it to `Total Commander` or `TotalCmd`.  
 I think it is now 30 years I am using it and nothing comes close to it as a practical tool.  
 ## Functional Shareware
 You can use it for free for a limited time (very long), but buying it for 37€ was the best purchase I ever made. I have bought it 2 times: one for personal use and one for my workplace.  
 You can find all the information and download it here: https://www.ghisler.com/
-Hahaha, it still uses a blue and red 3.5" diskette icon. The kids nowadays don't even know what it represents. In the old times Ghisler was working hard to have the installation so small, that it stays on only one diskette. In the modern internet times it does not matter any more. But it is still very compact.  
+Hahaha, it still uses a blue and red 3.5" diskette icon. The kids nowadays don't even know what it represents. In the old times Ghisler was working hard to have the installation so small (1.4Mb), that it stays on only one diskette. In the modern internet times it does not matter any more. But it is still very compact.  
 ## Configuration - Options
 Do this the first time you open the application. It will make it much more user-friendly.  
 Layout  
