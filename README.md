@@ -107,6 +107,13 @@ Sure, the best `WebDAV client` to use here is exactly Total Commander in both va
 On Android you can even use the QR code to connect fast two android phones. Windows is usually bad with QR codes.  
 I often use this way of file transfer between my computer and smartphone and it is working great !  
 
+## Linux and Mac
+TotalCmd does not work on Linux or Max. But there are very good alternatives with similar functionality.  
+Linux has the `mc` file manager that works inside the text console:  
+`sudo apt-get install mc`  
+http://linuxcommand.org/lc3_adv_mc.php  
+Mac has the muCommander:  
+https://www.mucommander.com/  
 # This is not all
 But I have to stop somewhere.  
 Discover by yourself more things that I didn't mention.  
