@@ -2,9 +2,9 @@
 
 I make acrobatics with files all day long.  I could not live without TotalCommander - the best file manager.  
 Primarily for Windows:  
-![totalcmd_1](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/images/totalcmd_1.png)
+![totalcmd_1](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/totalcmd_1.png)
 But today for Android too:  
-![android_1](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/images/android_1.png)
+![android_1](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/android_1.png)
 
 ## History
 
@@ -109,7 +109,7 @@ In the local folder I press `Ctrl + a` to Select All and then `Ctrl + m` for the
 LF[Y]-[M]-[D] [h]-[m]-[s][N20-]
 ```  
 
-![multi_rename](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/images/multi_rename.png)  
+![multi_rename](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/multi_rename.png)  
 It will use the file date/time to rename all files. I can see the future filenames so I can decide if I am happy or not. Then I press `Start!`. Boom - renamed - all at once!  
 I can save the mask with the button `F2 Save/Load` for future use.  
 I can move now this "processed" photos somewhere else.  
@@ -134,7 +134,7 @@ TotalCmd can internally use a photoviewer called IrfanView:
 It is old school, but very effective. You can say to TotalCmd to use it as its default viewer in  `Configuration - Options - Edit/View - Configure internal viewer - Use IrfanView/Xnview to load graphics`  
 Now you can choose to see the files as thumbnails from `Show - Thumbanil View`.  
 
-![thumbnails](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/images/thumbnails.png)  
+![thumbnails](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/thumbnails.png)  
 
 You can return to `Show - Full` later. You can choose the size of the thumbnails if they are too small or too big in `menu Configuration - Options - Thumbnails - Thumbnail size`.  
 All the operations work just the same no matter what view you use.  
