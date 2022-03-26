@@ -42,7 +42,8 @@ TotalCmd has 2 panels with files and folders. If you copy or move files the one 
 The mouse is a nice toy, but super slow and not precise. Use the keyboard instead. Learn the shortcuts you use often and be super fast and precise. Move up and down with the `arrows keys`. Change from one panel to the other with the `Tab key`. Use `F5` for copy and `F6` for move.  Does it feel right?  
 To Delete a file use `F8` or the key `Del`.
 The first row in the panel is `two dots`. In the old days it meant the `Parent folder`. Move to it with the `Home key` and press `Enter`. You will got into the `Parent folder`.  
-You can press `Enter` on a `Folder` (yellow icon) to go into it. Or press `Enter` on a `File` to open it with the associated application. Don't overthink it, just try it.  
+You can press `Enter` on a `Folder` (yellow icon) to go into it. Or press `Enter` on a `File` to open it with the associated application. Don't overthink it, just try it.
+
 This is just the beginning. But the way of thinking about it is always the same.  
 
 ## Tabs and favorite folders
