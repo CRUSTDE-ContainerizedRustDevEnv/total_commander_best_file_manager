@@ -1,6 +1,8 @@
 # total_commander_best_file_manager
 
-I make acrobatics with files all day long.  I could not live without TotalCommander - the best file manager.  
+**I make acrobatics with files all day long.  I could not live without TotalCommander - the best file manager**
+***version: 1.0  date: 2019-05-15 author: [Dev_Bestia](https://bestia.dev) repository: [GitHub](https://github.com/LucianoBestia/total_commander_best_file_manager)***  
+
 Primarily for Windows:  
 ![totalcmd_1](https://github.com/LucianoBestia/total_commander_best_file_manager/raw/main/images/totalcmd_1.png "totalcmd_1")
 But today for Android too:  
