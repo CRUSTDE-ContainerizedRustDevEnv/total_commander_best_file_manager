@@ -8,7 +8,8 @@ But today for Android too:
 
 ## History
 
-I am old. I don't feel it, but I am. I grew up with Sinclair Spectrum 48 and Commodore 64 computers. The battle was between Z80 and Motorola MC6800 microprocessors.  
+I am old. I don't feel it, but I am. I grew up with Sinclair Spectrum 48 and Commodore 64 computers. The battle was between Z80 and Motorola MC6800 microprocessors.
+
 I was already very productive in the old MSDOS times with Intel 80286 on 6 MHz.  
 There was a magic tool everybody used: Norton Commander.  
 It was very difficult to be productive without it. Can you imagine typing folder/file names all day? Just plain crazy!  
