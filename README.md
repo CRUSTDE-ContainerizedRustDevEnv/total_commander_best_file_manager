@@ -167,7 +167,7 @@ I often use this way of file transfer between my computer and smartphone and it 
 
 TotalCmd does not work on Linux or Max. But there are very good alternatives with similar functionality.  
 Linux has the `mc` file manager that works inside the text console:  
-`sudo apt-get install mc`  
+`sudo apt install mc`  
 <http://linuxcommand.org/lc3_adv_mc.php>  
 Mac has the muCommander:  
 <https://www.mucommander.com/>  
