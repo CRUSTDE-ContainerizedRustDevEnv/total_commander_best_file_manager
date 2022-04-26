@@ -5,6 +5,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbestia-dev%2Ftotal_commander_best_file_manager&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+Hashtags: #rustlang #tutorial
+
 Primarily for Windows:  
 ![totalcmd_1](https://github.com/bestia-dev/total_commander_best_file_manager/raw/main/images/totalcmd_1.png "totalcmd_1")
 But today for Android too:  
@@ -87,7 +89,7 @@ If you save the passwords inside TotalCmd use the MasterKey password to have the
 
 ## Synchronize dirs
 
-From the `menu Commands - Synchronite dirs` open a strong, fast, easy and complete tool to synchronize folders. You first Compare two folders. Than you choose what to do for every file and then you Synchronize.  
+From the `menu Commands - Synchronize dirs` open a strong, fast, easy and complete tool to synchronize folders. You first Compare two folders. Than you choose what to do for every file and then you Synchronize.  
 There is also the tool `File - Compare by content` the two selected files from the left and right panel.
 
 ## Search
@@ -107,7 +109,7 @@ I have a Sony camera with a SD card. I put that in my notebook. In TotalCmd on t
 
 ## Rename photos
 
-In the local folder I press `Ctrl + a` to Select All and then `Ctrl + m` for the Multirename tool. I choose a saved rename mask:  
+In the local folder I press `Ctrl + a` to Select All and then `Ctrl + m` for the Multi-rename tool. I choose a saved rename mask:  
 
 ```text
 LF[Y]-[M]-[D] [h]-[m]-[s][N20-]
@@ -133,7 +135,7 @@ But only for photos. Videos don't have Exif. For them I will use the saved Renam
 ## Watch the photos
 
 You can press `Enter` and the photo will open in your associated application.  
-TotalCmd can internally use a photoviewer called IrfanView:  
+TotalCmd can internally use a photo-viewer called IrfanView:  
 <https://www.irfanview.com/>  
 It is old school, but very effective. You can say to TotalCmd to use it as its default viewer in  `Configuration - Options - Edit/View - Configure internal viewer - Use IrfanView/Xnview to load graphics`  
 Now you can choose to see the files as thumbnails from `Show - Thumbanil View`.  
