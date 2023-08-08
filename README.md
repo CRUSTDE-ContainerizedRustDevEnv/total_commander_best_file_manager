@@ -175,6 +175,8 @@ TotalCmd does not work on Linux or Max. But there are very good alternatives wit
 Linux has the `mc` file manager that works inside the text console:  
 `sudo apt install mc`  
 <http://linuxcommand.org/lc3_adv_mc.php>  
+For Linux GUI:
+[DoubleCommander](https://doublecmd.sourceforge.io/)  
 Mac has the muCommander:  
 <https://www.mucommander.com/>  
 
