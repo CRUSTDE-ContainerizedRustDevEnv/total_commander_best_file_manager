@@ -3,8 +3,8 @@
 **I make acrobatics with files all day long. I could not live without TotalCommander.**  
 ***version: 1.0  date: 2019-05-15 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/total_commander_best_file_manager)***  
 
-![status](https://img.shields.io/badge/tutorial-yellow) 
-![Hits](https://bestia.dev/webpage_hit_counter/get_svg_image/796915256.svg)
+ ![tutorial](https://img.shields.io/badge/tutorial-yellow)
+ ![total_commander_best_file_manager](https://bestia.dev/webpage_hit_counter/get_svg_image/796915256.svg)
 
 Hashtags: #rustlang #tutorial  
 My projects on Github are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
