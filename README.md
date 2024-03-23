@@ -71,7 +71,7 @@ Like in a browser you have the Back and Forward button in the toolbar. So you ca
 ## Sort and select
 
 Click on the column header to fast sort by: Name, Ext, Size or Date.  
-Move up and down with the arrows and press Space. You selected a file/folder. Do it again and again. You have a selection. Very similar is `Shift + Up` and `Shift + Down`. There is also the `menu Mark - Select Group` to select with wildcard characters e.g. `*.jpg`. Once you have a selection all operations work on all the selected files together.  
+Move up and down with the arrows and press Space. You selected a file/folder. Do it again and again. You have a selection. Very similar is `Shift + Up` and `Shift + Down`. If you press `Insert` it will select the file and move the cursor down. So multiple presses will select many files. Nice. There is also the `menu Mark - Select Group` to select with wildcard characters e.g. `*.jpg`. Once you have a selection all operations work on all the selected files together.  
 
 ## Rename FileName
 
