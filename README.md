@@ -75,8 +75,8 @@ Move up and down with the arrows and press Space. You selected a file/folder. Do
 
 ## Rename FileName
 
-To rename a file press `Shift + F6`.  
-I often need for one file the `menu Mark - Copy names with path to clipboard`.  
+To rename a file press `Shift + F6` or I like to create the shortcut `F2` and it feels right.  
+I often need for one file the `menu Mark - Copy names with path to clipboard`. For me, it is better then `shift-rightclick-copy as path`.  
 
 ## Zip and other Packers
 
