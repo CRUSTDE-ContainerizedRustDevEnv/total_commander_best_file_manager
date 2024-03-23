@@ -86,7 +86,7 @@ To Pack and Unpack in one go use `Alt + F5` and `Alt + F9` shortcuts.
 
 ## Network and cloud disks, ftp, SSH and WebDAV
 
-Today a lot of data is in a remote location. TotalCmd offer a wide range of possibilities to connect to this folders. From that moment on it treats them just as regular folders and all operations just work on them the same as with local folders. Some of them are in the default installation. For others install this plugins from <https://www.ghisler.com/plugins.htm>:  
+Today a lot of data is in a remote location. TotalCmd offers a wide range of possibilities to connect to this folders. From that moment on, it treats them just as regular folders and all operations just work on them the same as with local folders. Some of them are in the default installation. For others install this plugins from <https://www.ghisler.com/plugins.htm>:  
 
 - Cloud 2.0 - for DropBox,...
 - WebDAV 2.9 - for Android WebDAV server, ...
