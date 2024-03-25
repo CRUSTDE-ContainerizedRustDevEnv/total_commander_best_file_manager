@@ -49,10 +49,6 @@ TotalCmd was born as a Windows program:
 
 ![totalcmd_1](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/totalcmd_1.png "totalcmd_1")
 
-But today it exists for Android too:  
-
-![android_1](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/android_1.png "android_1")
-
 ## History
 
 I am old. I don't feel it, but I am. I grew up with Sinclair Spectrum 48 and Commodore 64 computers. The battle was between Z80 and Motorola MC6800 microprocessors.
@@ -141,7 +137,7 @@ I like also to have a command (Ctrl-K) for opening VSCode on the active director
 
 ![cmd_vscode](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/cmd_vscode.png)
 
-Invisible commands are not user-friendly. Let's make 2 buttons so they are easy to lear:
+Invisible commands are not user-friendly. Let's make 2 buttons so they are easy to learn:
 
 ![btn_git-bash](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/btn_git-bash.png)
 
@@ -203,6 +199,9 @@ The two panels are divided by a Separator. With the mouse, you can move it. So y
 ## Total Commander for Android
 
 I waited a long time for a good File Manager for Android. And I was lucky because Ghisler decided to work in that direction. The result is phenomenal: `Total Commander for Android`.  
+
+![android_1](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/android_1.png "android_1")
+
 <https://www.ghisler.com/android.htm>  
 The smartphone screen is pretty small. You can see only one panel at a time. But on the edge, there are three big arrows to remind you there is another panel on the other side. You touch them and you can see the other panel.  
 You have the basic stuff: select, copy, move, delete, sort, new folder, search. Very impressive!  
@@ -221,11 +220,14 @@ I often use this way of file transfer between my computer and smartphone and it 
 ## Linux and Mac
 
 TotalCmd does not work on Linux or Mac. But there are very good alternatives with similar functionality.  
-Linux has the `midnight commander` file manager that works inside the terminal:  
+
+Linux has the `midnight commander` file manager that works inside the bash terminal:  
 `sudo apt install mc`  
 <http://linuxcommand.org/lc3_adv_mc.php>  
+
 For Linux GUI:
 [DoubleCommander](https://doublecmd.sourceforge.io/)  
+
 Mac has the muCommander:  
 <https://www.mucommander.com/>  
 
