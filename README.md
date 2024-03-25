@@ -53,7 +53,6 @@ But today it exists for Android too:
 
 ![android_1](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/android_1.png "android_1")
 
-
 ## History
 
 I am old. I don't feel it, but I am. I grew up with Sinclair Spectrum 48 and Commodore 64 computers. The battle was between Z80 and Motorola MC6800 microprocessors.
@@ -129,6 +128,14 @@ There is also the tool `File - Compare by content` the two selected files from t
 Use a pipe | to exclude certain folders of files: `*.md | .git\ target\`.
 
 There is also a `Find duplicate` tool in the Advanced Tab. Very useful.  
+
+## Add user command, keyboard shortcut and button
+
+For often-used commands, it is easy to add some customization. I like to open `git-bash` in Wezterm on the active directory.
+Configuration - Option - Misc - Add Hotkey Ctrl-G - Choose command from "magnifier button"
+the last category on the left is "usercmd.ini" - New 
+
+
 
 ## Working with photos
 
