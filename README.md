@@ -129,13 +129,23 @@ Use a pipe | to exclude certain folders of files: `*.md | .git\ target\`.
 
 There is also a `Find duplicate` tool in the Advanced Tab. Very useful.  
 
-## Add user command, keyboard shortcut and button
+## Add user commands, keyboard shortcuts and buttons
 
-For often-used commands, it is easy to add some customization. I like to open `git-bash` in Wezterm on the active directory.
-Configuration - Option - Misc - Add Hotkey Ctrl-G - Choose command from "magnifier button"
-the last category on the left is "usercmd.ini" - New 
+For often-used commands, it is easy to add some customization.  
+I like to open `git-bash` in Wezterm (Ctrl-G) on the active directory.  
+Configuration - Option - Misc - Add Hotkey Ctrl-G - Choose command from "magnifier button" - the last category on the left is "usercmd.ini" - New:
 
+![cmd_git_bash](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/cmd_git_bash.png)
 
+I like also to have a command (Ctrl-K) for opening VSCode on the active directory:
+
+![cmd_vscode](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/cmd_vscode.png)
+
+Invisible commands are not user-friendly. Let's make 2 buttons so they are easy to lear:
+
+![btn_git-bash](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/btn_git-bash.png)
+
+![btn_vscode](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/btn_vscode.png)
 
 ## Working with photos
 
