@@ -42,7 +42,7 @@ wlx
     slister (PDF viewer)
 ```
 
-Copy the settings from [here](configuration_files/win_files/c/Users/luciano/AppData/Roaming/GHISLER) to `C:\Users\luciano\AppData\Roaming\GHISLER`.  
+Copy the settings from [here](configuration_files/c_Users_luciano_AppData_Roaming_GHISLER) to `C:\Users\luciano\AppData\Roaming\GHISLER`.  
 Some files are stored in my encrypted vault because they contain secrets.  
 
 TotalCmd was born as a Windows program:  

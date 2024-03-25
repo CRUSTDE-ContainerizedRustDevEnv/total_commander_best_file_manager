@@ -1,5 +1,5 @@
 [Buttonbar]
-Buttoncount=26
+Buttoncount=27
 button1=wcmicons.dll
 cmd1=cm_Rereadsource
 iconic1=0
@@ -71,3 +71,6 @@ button26=notepad.exe
 cmd26=notepad.exe
 iconic26=0
 menu26=Notepad
+button27=C:\Program Files\Git\git-bash.exe
+cmd27=em_open_git_bash_wezterm
+menu27=git-bash (Ctrl-G)
