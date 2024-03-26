@@ -8,7 +8,7 @@
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![total_commander_best_file_manager](https://bestia.dev/webpage_hit_counter/get_svg_image/796915256.svg)
 
- ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE-ContainerizedRustDevEnv/main/images/crustde_250x250.png)
+ ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
  total_commander_best_file_manager is a member of the [CRUSTDE-ContainerizedRustDevEnv](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) project.
 
 Hashtags: #rustlang #tutorial  
