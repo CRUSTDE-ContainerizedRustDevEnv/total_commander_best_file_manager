@@ -3,13 +3,13 @@
 # total_commander_best_file_manager
 
 **I make acrobatics with files all day long. I could not live without TotalCommander.**  
-***version: 1.0  date: 2019-05-15 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager)***  
+***version: 1.0  date: 2019-05-15 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![total_commander_best_file_manager](https://bestia.dev/webpage_hit_counter/get_svg_image/796915256.svg)
 
- ![logo](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/CRUSTDE-Containerized-Rust-DevEnv/main/images/crustde_250x250.png)
- total_commander_best_file_manager is a member of the [CRUSTDE-Containerized-Rust-DevEnv](https://github.com/orgs/CRUSTDE-Containerized-Rust-DevEnv/repositories?q=sort%3Aname-asc) project.
+ ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE-ContainerizedRustDevEnv/main/images/crustde_250x250.png)
+ total_commander_best_file_manager is a member of the [CRUSTDE-ContainerizedRustDevEnv](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) project.
 
 Hashtags: #rustlang #tutorial  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
@@ -47,7 +47,7 @@ Some files are stored in my encrypted vault because they contain secrets.
 
 TotalCmd was born as a Windows program:  
 
-![totalcmd_1](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/totalcmd_1.png "totalcmd_1")
+![totalcmd_1](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/raw/main/images/totalcmd_1.png "totalcmd_1")
 
 ## History
 
@@ -131,17 +131,17 @@ For often-used commands, it is easy to add some customization.
 I like to open `git-bash` in Wezterm (Ctrl-G) on the active directory.  
 Configuration - Option - Misc - Add Hotkey Ctrl-G - Choose command from "magnifier button" - the last category on the left is "usercmd.ini" - New:
 
-![cmd_git_bash](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/cmd_git_bash.png)
+![cmd_git_bash](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/main/images/cmd_git_bash.png)
 
 I like also to have a command (Ctrl-K) for opening VSCode on the active directory:
 
-![cmd_vscode](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/cmd_vscode.png)
+![cmd_vscode](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/main/images/cmd_vscode.png)
 
 Invisible commands are not user-friendly. Let's make 2 buttons so they are easy to learn:
 
-![btn_git-bash](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/btn_git-bash.png)
+![btn_git-bash](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/main/images/btn_git-bash.png)
 
-![btn_vscode](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/main/images/btn_vscode.png)
+![btn_vscode](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/main/images/btn_vscode.png)
 
 ## Working with photos
 
@@ -161,7 +161,7 @@ In the local folder, I press `Ctrl + a` to Select All and then `Ctrl + m` for th
 LF[Y]-[M]-[D] [h]-[m]-[s][N20-]
 ```  
 
-![multi_rename](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/multi_rename.png "multi_rename")  
+![multi_rename](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/raw/main/images/multi_rename.png "multi_rename")  
 
 It will use the file date/time to rename all files. I can see the future filenames so I can decide if I am happy or not. Then I press `Start!`. Boom - renamed - all at once!  
 I can save the mask with the button `F2 Save/Load` for future use.  
@@ -187,7 +187,7 @@ I like to use a photo-viewer called IrfanView:
 It is old school, but very effective. You can say to TotalCmd to use it as its default viewer in  `Configuration - Options - Edit/View - Configure internal viewer - Use IrfanView to load graphics`  
 Now you can choose to see the files as thumbnails from `Show - Thumbnail View`.  
 
-![thumbnails](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/thumbnails.png "thumbnails")  
+![thumbnails](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/raw/main/images/thumbnails.png "thumbnails")  
 
 You can return to `Show - Full` later. You can choose the size of the thumbnails if they are too small or too big in the menu `Configuration - Options - Thumbnails - Thumbnail size`.  
 All the operations work just the same no matter what view you use.  
@@ -200,7 +200,7 @@ The two panels are divided by a Separator. With the mouse, you can move it. So y
 
 I waited a long time for a good File Manager for Android. And I was lucky because Ghisler decided to work in that direction. The result is phenomenal: `Total Commander for Android`.  
 
-![android_1](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/total_commander_best_file_manager/raw/main/images/android_1.png "android_1")
+![android_1](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager/raw/main/images/android_1.png "android_1")
 
 <https://www.ghisler.com/android.htm>  
 The smartphone screen is pretty small. You can see only one panel at a time. But on the edge, there are three big arrows to remind you there is another panel on the other side. You touch them and you can see the other panel.  
