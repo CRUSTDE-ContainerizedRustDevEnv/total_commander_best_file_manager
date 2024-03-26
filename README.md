@@ -3,7 +3,7 @@
 # total_commander_best_file_manager
 
 **I make acrobatics with files all day long. I could not live without TotalCommander.**  
-***version: 1.0  date: 2019-05-15 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager)***  
+***version: 2024.326.1347  date: 2024-03-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![total_commander_best_file_manager](https://bestia.dev/webpage_hit_counter/get_svg_image/796915256.svg)
