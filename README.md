@@ -7,6 +7,7 @@
 ***version: 2024.326.1347  date: 2024-03-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/total_commander_best_file_manager)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
  ![total_commander_best_file_manager](https://bestia.dev/webpage_hit_counter/get_svg_image/796915256.svg)
 
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
